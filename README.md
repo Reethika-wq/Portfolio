@@ -1,7 +1,7 @@
 🎯 Purpose of This Project
 
 The goal of this portfolio is more than just listing my skills; it's a demonstration of my capabilities in action.
-It was built to:
+      It was built to:
 Showcase my proficiency in both frontend design and backend logic.
 Provide a tangible example of my development work and coding standards.
 Serve as a central hub for my professional identity, connecting my projects, experience, and contact information in one place.
